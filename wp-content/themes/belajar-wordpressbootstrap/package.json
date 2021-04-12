@@ -1,0 +1,29 @@
+{
+  "name": "desainbootstrapsass",
+  "version": "1.0.0",
+  "description": "belajar bootstrap 5 dengan sass",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.1",
+    "bootstrap": "^5.0.0-beta3",
+    "browser-sync": "^2.26.13",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-postcss": "^9.0.0",
+    "gulp-purgecss": "^4.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Irvan",
+  "license": "ISC"
+}

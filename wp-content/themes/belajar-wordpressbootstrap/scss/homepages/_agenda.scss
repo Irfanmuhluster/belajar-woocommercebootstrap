@@ -1,0 +1,28 @@
+.block-agenda {
+    padding: 1rem;
+    .block-agenda-tanggal {
+        // margin-left: 1rem;
+        margin-top: 0.5rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-bottom: 0.25rem;
+        padding-top: 0.25rem;
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        color:  $gray-100;
+        background-color: $gray-700;
+        font-weight: 700;
+        border-radius: $border-radius-lg;
+    }
+
+    .block-agenda-description {
+        display: inline;
+        padding-top: 1rem;
+        padding-right: 0.5rem;
+        padding-bottom: 1.5rem;
+        color: $gray-700;
+    }
+}
