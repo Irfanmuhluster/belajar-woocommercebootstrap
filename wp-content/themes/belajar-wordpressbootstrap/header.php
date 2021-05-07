@@ -85,7 +85,7 @@
 						<div class="col-sm-4 d-flex justify-content-center">
 							<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
 								<i class="bi bi-list"></i>
-								<?php esc_html_e( '', 'belajar-wordpressbootstrap' ); ?>
+							
 							</button>
 						</div>
 						<div class="col-sm-4 d-flex justify-content-start d-block d-sm-none d-md-none">
